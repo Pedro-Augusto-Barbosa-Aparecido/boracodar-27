@@ -6,7 +6,7 @@ import PlanetGif from "@next-app/assets/planet.gif"
 export default function Home() {
   return (
     <main className="flex justify-start items-start text-primary">
-      <div className='flex flex-col items-start justify-start gap-14 mr-80 -ml-48'>
+      <div className='flex flex-col items-start justify-start gap-14 mr-80'>
         <div className='flex flex-col items-start justify-start gap-5 w-[380px]'>
           <h1 className='font-bold text-title leading-tight'>
             Ops, esta página não foi encontrada
